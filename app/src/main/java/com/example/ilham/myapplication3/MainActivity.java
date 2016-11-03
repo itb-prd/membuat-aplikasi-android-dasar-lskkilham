@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void munculDialog(){
-        Toast toast = Toast.makeText(this.getApplicationContext(),"Hallo",Toast.LENGTH_LONG);
+        Toast toast = Toast.makeText(this.getApplicationContext(),"Hallo Disana",Toast.LENGTH_LONG);
         toast.show();
     }
 }
